@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stressi", "Stressi.csproj", "{DE393E85-5B56-47E3-9164-A1CCC9675996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE393E85-5B56-47E3-9164-A1CCC9675996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE393E85-5B56-47E3-9164-A1CCC9675996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE393E85-5B56-47E3-9164-A1CCC9675996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE393E85-5B56-47E3-9164-A1CCC9675996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920F0C25-AEDC-47F5-8CB3-22304E457781}
+	EndGlobalSection
+EndGlobal
